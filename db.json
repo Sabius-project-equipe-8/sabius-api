@@ -16,7 +16,7 @@
       "title": "Como criar um toast no React",
       "description": "Visite o link da documentação",
       "likes": 0,
-      "techCategory": "Bibliotecas",
+      "techCategory": "React",
       "postImage": "https://user-images.githubusercontent.com/5574267/130804494-a9d2d69c-f170-4576-b2e1-0bb7f13dd92d.gif",
       "link": "https://www.npmjs.com/package/react-toastify",
       "userId": 1
@@ -27,7 +27,7 @@
       "title": "Typescript - Mais técnicas",
       "description": "Visite o link da documentação",
       "likes": 0,
-      "techCategory": "Linguagens",
+      "techCategory": "Typescript",
       "postImage": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg",
       "link": "https://www.typescriptlang.org/",
       "userId": 1
@@ -38,9 +38,31 @@
       "title": "Styled-components",
       "description": "Visite o link da documentação",
       "likes": 0,
-      "techCategory": "Linguagens",
+      "techCategory": "CSS",
       "postImage": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.styled-components.com%2F&psig=AOvVaw2T3nvI86y95v6vAGiLk_rR&ust=1682803370871000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDimZvBzf4CFQAAAAAdAAAAABAE",
       "link": "https://www.npmjs.com/package/styled-components",
+      "userId": 1
+    },
+
+    {
+      "id": 4,
+      "title": "Fazendo requisição com Axios",
+      "description": "Visite o link da documentação",
+      "likes": 0,
+      "techCategory": "Javascript",
+      "postImage": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg",
+      "link": "https://axios-http.com/docs/intro",
+      "userId": 1
+    },
+
+    {
+      "id": 5,
+      "title": "React-router-dom",
+      "description": "Visite o link da documentação",
+      "likes": 0,
+      "techCategory": "HTML",
+      "postImage": "https://res.cloudinary.com/practicaldev/image/fetch/s--_bS1dmNu--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bohilxedfl6ijlltfyeq.png",
+      "link": "https://reactrouter.com/en/main",
       "userId": 1
     }
   ]
