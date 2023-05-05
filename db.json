@@ -5,7 +5,7 @@
       "name": "Kenzinho",
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "image": "url",
+      "image": "https://pbs.twimg.com/profile_images/520203580968800257/84ZGVpYD_400x400.jpeg",
       "isAdmin": true
     }
   ],
@@ -39,7 +39,7 @@
       "description": "Visite o link da documentação",
       "likes": 0,
       "techCategory": "CSS",
-      "postImage": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.styled-components.com%2F&psig=AOvVaw2T3nvI86y95v6vAGiLk_rR&ust=1682803370871000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDimZvBzf4CFQAAAAAdAAAAABAE",
+      "postImage": "https://cdn.worldvectorlogo.com/logos/styled-components-1.svg",
       "link": "https://www.npmjs.com/package/styled-components",
       "userId": 1
     },
